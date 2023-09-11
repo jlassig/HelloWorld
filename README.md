@@ -4,8 +4,6 @@ This program says a fun, happy greeting to any who see it. It's a good reminder 
 
 My purpose for creating this is to send a happy greeting for all to see. And because I am going to learn Java next week.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/8lio9mimkwQ)
 
 # Development Environment
